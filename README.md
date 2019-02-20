@@ -12,3 +12,6 @@ The first time you use this software, you should run MATLAB as an administrator 
 `Run IMT2020_CM_BUPTv2.p` when using software.
 
 Run `IMT2020_CM_BUPTv2.fig` you can get the GUI, but you can not use it to caculate the data. Which is designed.
+
+# User Guide
+Check the [userguide](User%20Manual.pdf) 
